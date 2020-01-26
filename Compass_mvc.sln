@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass_mvc", "Compass_mvc\Compass_mvc.csproj", "{772FB269-B9AC-4B4F-B1FB-337A8736E952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772FB269-B9AC-4B4F-B1FB-337A8736E952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772FB269-B9AC-4B4F-B1FB-337A8736E952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772FB269-B9AC-4B4F-B1FB-337A8736E952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772FB269-B9AC-4B4F-B1FB-337A8736E952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE798D62-8DFD-4A84-89F3-9A2DF16C0571}
+	EndGlobalSection
+EndGlobal
